@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Focus</string>
+    <string name="output_view_default">Enter the time to focus</string>
+    <string name="input_name_hint">Minutes</string>
+    <string name="ok_button_label">OK</string>
+    <string name="output_view_format">Hello %s,\nnice to see you.</string>
 </resources>
